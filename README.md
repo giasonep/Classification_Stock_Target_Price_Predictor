@@ -8,7 +8,15 @@ I developed a classification pipeline that takes in a stock’s price data from 
 ### Install
  The following libraries are required for this project:
  
-
+  - NumPy
+  - Pandas
+  - Requests
+  - Json
+  - SQLite
+  - SQLAlchemy
+  - Scikit-learn
+  - XGBoost
+  - Pickle
 
 ### Data
-  - [Glassdoor.com](https://www.glassdoor.com/Job/data-scientist-jobs-SRCH_KO0,14.htm)
+  - [TD Ameritrade API](https://developer.tdameritrade.com/apis)
