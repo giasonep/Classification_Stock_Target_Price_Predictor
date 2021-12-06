@@ -10,6 +10,7 @@ I developed a classification pipeline that takes in a stock’s price data from 
  
   - NumPy
   - Pandas
+  - Matplotlib
   - Requests
   - Json
   - SQLite
